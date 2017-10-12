@@ -1,0 +1,5 @@
+https://www.w3schools.com/howto/howto_css_parallax.asp
+
+https://v4-alpha.getbootstrap.com/layout/grid/
+
+https://www.w3schools.com/css/css3_shadows.asp
